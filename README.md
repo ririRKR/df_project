@@ -93,9 +93,8 @@ Several clinical interaction features were derived:
 
 | Model | Test ROC-AUC | 10-Fold CV AUC |
 |---|---|---|
-| Random Forest | — | — |
-| XGBoost (tuned) | — | — |
-| Stacking Ensemble | — | — |
+| Random Forest | 0.9297 | 0.8931 |
+| XGBoost (tuned) | 0.9249 | 0.8866 |
 
 ---
 
