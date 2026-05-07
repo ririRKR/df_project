@@ -10,6 +10,7 @@ A ML pproject that predicts the presence of heart disease using clinical feature
 
 ```
 ├── final_df_projct.ipynb       # Main notebook
+├── final_df_projct.pdf         # Notebook with fitures
 ├── heart_disease_uci 2.csv     # Dataset (download from Kaggle link above)
 └── README.md
 ```
